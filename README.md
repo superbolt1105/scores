@@ -1,1 +1,1 @@
-# This is a scores project
+# This is a score project
